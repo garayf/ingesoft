@@ -1,0 +1,67 @@
+body {
+    color: #444;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+}
+.button-div{
+    width:100%;
+}
+
+.one{
+    width:100%;
+    background-color: #13124f;
+    padding-left: 10px;
+}
+
+.two{
+    width:100%;
+    background-color: #13124f;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tres{
+    width:100%;
+    background-color: #352ba5;
+    padding-left: 10px;
+    
+    
+}
+.container1{
+    padding-left: 10px;
+    background-color: #9090a5;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.second{
+    background-color: #13124f;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.bolita {
+    border: #9090a5;
+    background-color: #352ba5;
+    border-radius: 50px 50px 50px 50px
+}
+.boton1{
+ color:#ffffff;   
+  padding-right: 20px;
+    padding-left: 20px;
+}
+.boton2{
+     width:100%;
+      color:#ffffff;   
+   
+}
+.boton3{
+    color:#fff;   
+    
+}
+.boton4{
+    color:#2ad392;   
+   
+}
